@@ -11,10 +11,12 @@ Memo for learning git. Please read references from top to bottom.
 1. Github's **pull requests workflow** is a popular way to create and review code.
 2. **commit** messages capture the history of your changes, so other contributors can understand what you have done and why.
 3. make a pull request on a `feature branch`, and the **team leader** review, discuss, and merge the pull request to `master` branch.
+4. anything in the `master` branch is always deployable.
 
 
 
 ## References
 1. https://guides.github.com/activities/hello-world/ 
 2. https://guides.github.com/introduction/flow/
+3. https://guides.github.com/features/mastering-markdown/ [for Markdown Usage]
 
