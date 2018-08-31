@@ -20,6 +20,7 @@ Memo for learning git. Please read references from top to bottom.
 2. **commit** messages capture the history of your changes, so other contributors can understand what you have done and why.
 3. make a pull request on a `feature branch`, and the **team leader** review, discuss, and merge the pull request to `master` branch.
 4. anything in the `master` branch is always deployable.
+5. **no one should work on `master` branch directly** even the team leader, because the `master` is for production
 
 ## Usages
 * `git clone *.git`, clone a repository into a new dictory
