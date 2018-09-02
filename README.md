@@ -39,4 +39,5 @@ Memo for learning git. Please read references from top to bottom.
 3. https://guides.github.com/features/mastering-markdown/ [for Markdown Usage]
 4. https://git-scm.com/doc
 5. After install the git software, type `git help tutorial`, `git help everyday`, `git help revisions`, and `git help workflows` in the terminal to read the documentations
+6. https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000 [in Chinese]
 
